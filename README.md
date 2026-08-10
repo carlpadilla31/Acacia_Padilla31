@@ -29,5 +29,3 @@ Author
 Name: Padilla, Carlene Aisha S.
 Section: 8 - Acacia
 
--
-Cancel contracts here
