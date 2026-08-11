@@ -16,6 +16,7 @@ Input Needed
 - Enter y2: 8
 
 Sample Output
+   
     import math
 
     X1 = float(input("Enter coordinate: X"))
