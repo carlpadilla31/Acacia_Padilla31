@@ -1,3 +1,5 @@
+
+
 import math
 
 X1 = float(input("Enter coordinate: X"))
