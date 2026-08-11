@@ -1,7 +1,6 @@
 import math #To make the math library functions work (pow. and sqrt.)
 
-#Coordinates
-X1 = float(input("Enter coordinate: X")) 
+X1 = float(input("Enter coordinate: X")) #coordinates
 Y1 = float(input("Enter coordinate: Y"))
 X2 = float(input("Enter coordinate: X"))
 Y2 = float(input("Enter coordinate: Y"))
