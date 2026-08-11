@@ -17,14 +17,11 @@ Input Needed
 
 Sample Output
    
-    import math
-
-    X1 = float(input("Enter coordinate: X"))
-    Y1 = float(input("Enter coordinate: Y"))
-    X2 = float(input("Enter coordinate: X"))
-    Y2 = float(input("Enter coordinate: Y"))
-    distance = math.sqrt(math.pow(X1 - X2, 2) + math.pow(Y2 - Y1, 2))
-    print(f"The Distance between the coordinate is, {distance:.2f}")
+    Enter coordinate: X2
+    Enter coordinate: Y3
+    Enter coordinate: X7
+    Enter coordinate: Y8
+    The Distance between the coordinate is, 7.07
 
 Author
 - Name: Padilla, Carlene Aisha S.
