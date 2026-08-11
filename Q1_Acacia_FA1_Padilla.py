@@ -1,9 +1,9 @@
 import math #To make the math library functions work (pow. and sqrt.)
 
-X1 = float(input("Enter coordinate: X")) #coordinates
-Y1 = float(input("Enter coordinate: Y"))
-X2 = float(input("Enter coordinate: X"))
-Y2 = float(input("Enter coordinate: Y"))
+X1 = float(input("Enter coordinate: X")) #coordinate 1
+Y1 = float(input("Enter coordinate: Y")) #coordinate 2
+X2 = float(input("Enter coordinate: X")) #coordinate 1
+Y2 = float(input("Enter coordinate: Y")) #coordinate 2
 
 distance = math.sqrt(math.pow(X1 - X2, 2) + math.pow(Y2 - Y1, 2)) # Equation of the answer 
 
